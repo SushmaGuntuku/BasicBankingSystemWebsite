@@ -1,2 +1,2 @@
 # BasicBankingSystemWebsite
-Developed using html,css,php,mysql
+Developed using html, css, php,mysql
